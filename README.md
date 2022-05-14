@@ -1,7 +1,7 @@
 # Build/Buy Lag Fix Sims 4
 <div align="center">
 	<br>
-	<img src="header.png" width="800" height="400">
+	<img src="header.png" width="960" height="248">
 	<br>
 </div>
 
