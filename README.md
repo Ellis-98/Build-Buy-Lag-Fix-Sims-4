@@ -1,7 +1,7 @@
 # Build/Buy Lag Fix Sims 4
 <div align="center">
 	<br>
-	<img src="header.svg" width="800" height="400">
+	<img src="header.png" width="800" height="400">
 	<br>
 </div>
 
@@ -26,3 +26,10 @@
 <h1>Une mise à jour du jeu a cassé le patch ? Pas de panique...</h1>
 <p>Pour mettre à jour le patch avec les nouvelles versions des sims 4, il vous sera nécessaire de vous rendre dans le fichier BBLagFix.ini</p>
 <p>De modifier les valeurs nommées Adress, Expected, Target avec les valeurs correspondantes à la version actuelle du jeu.</p>
+
+# Adresse pour le patch 1.87.40.1030
+> Address = 0x140C8083D
+> 
+> Expected = 0xE081C71774
+> 
+> Target = 0xE081C717EB
