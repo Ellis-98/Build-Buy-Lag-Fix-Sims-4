@@ -1,0 +1,18 @@
+Configuration pour le Build/Buy Lag Fix des Sims 4
+
+Quel est le problème ?
+Lorsque vous entrez ou sortez du mode construction/achat dans le jeu, certains joueurs subissent des baisses de FPS très ennuyeuses. Celles-ci se corrigent après un certain temps, ou en appuyant deux fois sur ESC. En général, ce n'est pas un gros problème, mais si vous changez très fréquemment de jeu, et c'est tout simplement chiant. Alors, j'ai faits ce petit patch ! ;)
+
+Pour l'installer :
+
+Extrayez version.dll (le chargeur ASI) dans le répertoire racine de Sims 4/Game/Bin/.
+Extrayez le contenu de BBLagFix.zip dans le même répertoire.
+Dans le répertoire des scripts, vous trouverez BBLagFix.ini, qui est utilisé pour configurer le plugin.
+
+Une mise à jour du jeu a cassé le patch ? Pas de panique...
+
+Pour mettre à jour le patch avec les nouvelles versions des sims 4, il vous sera nécessaire de vous rendre dans le fichier BBLagFix.ini
+De modifier les valeurs nommées Adress, Expected, Target avec les valeurs correspondantes à la version actuelle du jeu.
+
+Où trouver les valeurs de la dernière mise à jour ?
+Sur le Discord de Candyman Gaming -> https://discord.gg/DFtDAKg
